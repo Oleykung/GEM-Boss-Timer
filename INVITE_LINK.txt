@@ -1,0 +1,2 @@
+ID: 1573015440374898789
+INVITE: https://discord.com/oauth2/authorize?client_id=1573015440374898789&permissions=379904&scope=bot%20applications.commands
